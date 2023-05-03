@@ -3,3 +3,5 @@ This repository contains the necessary files and code for the countermeasure con
 
 This study is based on this emulator:
 https://github.com/emsec/arm-fault-simulator
+
+Need to add the steps to run the checks 
